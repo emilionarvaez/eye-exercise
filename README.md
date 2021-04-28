@@ -73,7 +73,7 @@ Version 1.0
 
 ## License
 
-"PacMan Simulation Project" is free, open source, and GPL friendly. You can use it for
+"Eye Simulation Project" is free, open source, and GPL friendly. You can use it for
 commercial projects, open source projects, or really almost whatever you want.
 
 ## Team
